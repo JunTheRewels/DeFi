@@ -1,4 +1,4 @@
-# hw_m18_DeFi
+# DeFi
 
 This file blockchain-based ledger system with a user-friendly web interface that allows users to send currency.
 
